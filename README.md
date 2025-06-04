@@ -36,13 +36,6 @@ Desenvolvedor em transição para Backend, apaixonado por tecnologia, inovação
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Seja+bem-vindo+ao+meu+GitHub!;Backend+em+construção+e+Frontend+em+evolução.;Java+%7C+Spring+Boot+%7C+React+%7C+SQL+%7C+API+REST" alt="Typing SVG" />
-</div>
-
-
----
-
 <h2 align="center">📊 Meu GitHub em números</h2>
 
 <p align="center">
