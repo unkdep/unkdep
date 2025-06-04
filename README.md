@@ -40,3 +40,20 @@ Desenvolvedor em transição para Backend, apaixonado por tecnologia, inovação
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Seja+bem-vindo+ao+meu+GitHub!;Backend+em+construção+e+Frontend+em+evolução.;Java+%7C+Spring+Boot+%7C+React+%7C+SQL+%7C+API+REST" alt="Typing SVG" />
 </div>
 
+---
+
+<h2 align="center">📊 Meu GitHub em números</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unkdep&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unkdep&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unkdep&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unkdep&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unkdep&theme=github_dark&utcOffset=-3" />
+</p>
