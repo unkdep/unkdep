@@ -6,7 +6,7 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
 
 <hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
 
-## ⚙️ <ins style="color:#1e90ff;">Tech Stack</ins>
+## <ins style="color:#1e90ff;">Tech Stack</ins>
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
@@ -46,11 +46,6 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" alt="Top Languages" />
 </p>
 
-<h3 align="center" style="color:#3399ff;">Most Used Language</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/most-commit-language?username=unkdep&theme=dark_blue&bg_color=001f3f" alt="Most Used Language" />
-</p>
 
 
 
