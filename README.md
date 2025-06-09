@@ -1,6 +1,15 @@
-<h1 style="color:#1e90ff; font-weight: 800; text-shadow: 0 0 10px #00bfff; text-align: left; margin-left: 20px;">
+<h1 style="
+  color:#1e90ff; 
+  font-weight: 800; 
+  text-shadow: 0 0 10px #00bfff; 
+  text-align: left; 
+  margin-left: 20px;
+  padding-bottom: 5px; 
+  border-bottom: 3px solid #00bfff;
+">
   Olá, eu sou o Rafael
 </h1>
+
 <hr style="border: 1px solid #00bfff; width: 90%; margin-left: 20px; margin-top: 5px;" />
 
 <p align="center" style="font-size:18px; color:#4682b4; max-width:600px; margin:auto;">
