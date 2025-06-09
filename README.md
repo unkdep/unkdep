@@ -44,8 +44,13 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" alt="Top Languages" />
+</p>
+
+<h3 align="center" style="color:#3399ff;">Linguagem mais usada</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/most-commit-language?username=unkdep&theme=dark_blue&bg_color=001f3f" alt="Most Used Language" />
 </p>
+
 
 
 
