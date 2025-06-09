@@ -4,11 +4,13 @@
   text-shadow: 0 0 10px #00bfff; 
   text-align: left; 
   margin-left: 20px;
-  padding-bottom: 5px; 
+  padding-bottom: 6px; 
   border-bottom: 3px solid #00bfff;
+  display: inline-block;
 ">
   Olá, eu sou o Rafael
 </h1>
+
 
 <hr style="border: 1px solid #00bfff; width: 90%; margin-left: 20px; margin-top: 5px;" />
 
