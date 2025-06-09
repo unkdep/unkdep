@@ -11,7 +11,6 @@
   Olá, eu sou o Rafael
 </h1>
 
-
 <hr style="border: 1px solid #00bfff; width: 90%; margin-left: 20px; margin-top: 5px;" />
 
 <p align="center" style="font-size:18px; color:#4682b4; max-width:600px; margin:auto;">
@@ -59,10 +58,3 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" alt="Top Languages" />
 </p>
-
-
-
-
-
-
-
