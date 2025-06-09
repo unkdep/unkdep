@@ -45,11 +45,11 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unkdep&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unkdep&theme=2077" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=2077" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unkdep&theme=2077" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unkdep&theme=2077&utcOffset=-3" />
 </p>
+
