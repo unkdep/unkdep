@@ -22,7 +22,7 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
 
 ## 🚀 <ins style="color:#1e90ff;">Atualmente Explorando:</ins>
 
-> <span style="color:#3399ff;">💻 Java e Spring Boot ☕🌱</span>  
+> <span style="color:#3399ff;">💻 Java e Spring Boot ☕</span>  
 > <span style="color:#3399ff;">🚀 Desenvolvimento de APIs REST 🛰️</span>  
 > <span style="color:#3399ff;">🗄️ SQL e Modelagem de Banco de Dados</span>  
 > <span style="color:#3399ff;">🧠 Arquitetura de Software e Clean Code</span>  
@@ -32,25 +32,25 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
 
 ## 🔥 <ins style="color:#1e90ff;">Sobre mim:</ins>
 
-✨ Em transição de carreira para Backend  
-🚀 Buscando aprimorar minhas habilidades técnicas e construir soluções escaláveis  
-🤝 Acredito no poder da colaboração, do aprendizado contínuo e da tecnologia para transformar  
+ Em transição de carreira para Backend  
+ Buscando aprimorar minhas habilidades técnicas e construir soluções escaláveis  
+ Acredito no poder da colaboração, do aprendizado contínuo e da tecnologia para transformar  
 
 <hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
 
-<h2 align="center" style="color:#1e90ff; text-shadow: 0 0 8px #00bfff;">🧠 Meu GitHub em números ⚙️</h2>
+<h2 align="center" style="color:#1e90ff; text-shadow: 0 0 8px #00bfff;">⚙️ Meu GitHub em números ⚙️</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unkdep&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unkdep&theme=dark_blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=2077" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unkdep&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unkdep&theme=2077&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unkdep&theme=dark_blue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unkdep&theme=dark_blue&utcOffset=-3" />
 </p>
 
 
