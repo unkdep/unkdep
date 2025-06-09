@@ -38,19 +38,13 @@ Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong
 
 <hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
 
-<h2 align="center" style="color:#1e90ff; text-shadow: 0 0 8px #00bfff;">⚙️ Meu GitHub em números ⚙️</h2>
+<hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unkdep&theme=dark_blue" />
-</p>
+<h2 align="center" style="color:#1e90ff; text-shadow: 0 0 8px #00bfff;">⚙️ Meu GitHub em números ⚙️</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unkdep&theme=dark_blue" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unkdep&theme=dark_blue&utcOffset=-3" />
-</p>
 
 
