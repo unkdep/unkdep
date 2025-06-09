@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#1e90ff; font-weight: 800; text-shadow: 0 0 10px #00bfff;">✨ Olá, eu sou o Rafael 👋</h1>
+<h1 align="center" style="color:#1e90ff; font-weight: 800; text-shadow: 0 0 10px #00bfff;"> Olá, eu sou o Rafael </h1>
 
 <p align="center" style="font-size:18px; color:#4682b4; max-width:600px; margin:auto;">
 Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong>, apaixonado por <strong style="color:#3399ff;">tecnologia</strong>, <strong style="color:#3399ff;">inovação</strong> e por resolver problemas através do código. 🚀
