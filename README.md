@@ -1,75 +1,98 @@
-<h1 style="
-  color: #1e90ff;
-  font-weight: 900;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-shadow: 0 0 8px #00bfff88;
-  text-align: left;
-  margin-left: 20px;
-  padding-bottom: 8px;
-  border-bottom: 4px solid;
-  border-image: linear-gradient(90deg, #00bfff, #1e90ff) 1;
-  display: inline-block;
-  letter-spacing: 1.2px;
-  font-size: 2.8rem;
-">
+# 👨🏻‍💻 Rafael
 
-  Olá, eu sou o Rafael
+**`Desenvolvedor em transição para Backend`**
 
-</h1>
+Olá! Eu sou o Rafael. Sou apaixonado por **tecnologia**, **inovação** e por resolver problemas através do código. Atualmente, estou em transição de carreira com foco em desenvolvimento backend e sempre buscando evoluir no frontend também.
 
-<hr style="
-  border: none;
-  height: 3px;
-  width: 90%;
-  margin-left: 20px;
-  background: linear-gradient(90deg, #00bfff, #1e90ff);
-  border-radius: 5px;
-  margin-top: 8px;
-" />
+---
 
+### 🤖 Linguagens e Tecnologias
 
-<p align="center" style="font-size:18px; color:#4682b4; max-width:600px; margin:auto;">
-Desenvolvedor em transição para <strong style="color:#3399ff;">Backend</strong>, apaixonado por <strong style="color:#3399ff;">tecnologia</strong>, <strong style="color:#3399ff;">inovação</strong> e por resolver problemas através do código. 🚀
-</p>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
 
-<hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
+<br/>
+<br/>
 
-## <ins style="color:#1e90ff;">Tech Stack</ins>
+---
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" style="filter: drop-shadow(0 0 5px #3399ff);" />
-</div>
+### 🚀 Atualmente Explorando
 
-<hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
+> 💻 Java e Spring Boot ☕  
+> 🚀 Desenvolvimento de APIs REST 🛰️  
+> 🗄️ SQL e Modelagem de Banco de Dados  
+> 🧠 Arquitetura de Software e Clean Code  
+> ⚛️ Sempre evoluindo no Frontend com React, JavaScript e TypeScript  
 
-## 🚀 <ins style="color:#1e90ff;">Atualmente Explorando:</ins>
+---
 
-> <span style="color:#3399ff;">💻 Java e Spring Boot ☕</span>  
-> <span style="color:#3399ff;">🚀 Desenvolvimento de APIs REST 🛰️</span>  
-> <span style="color:#3399ff;">🗄️ SQL e Modelagem de Banco de Dados</span>  
-> <span style="color:#3399ff;">🧠 Arquitetura de Software e Clean Code</span>  
-> <span style="color:#3399ff;">⚛️ Sempre evoluindo no Frontend com React, JavaScript e TypeScript</span>  
+### 🔥 Sobre mim
 
-<hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
+- Em transição de carreira para Backend  
+- Buscando aprimorar minhas habilidades técnicas e construir soluções escaláveis  
+- Acredito no poder da colaboração, do aprendizado contínuo e da tecnologia para transformar  
 
-## 🔥 <ins style="color:#1e90ff;">Sobre mim:</ins>
+---
 
- Em transição de carreira para Backend  
- Buscando aprimorar minhas habilidades técnicas e construir soluções escaláveis  
- Acredito no poder da colaboração, do aprendizado contínuo e da tecnologia para transformar  
-
-<hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
-
-<hr style="border: 1px solid #00bfff; width: 80%; margin: 30px auto;" />
-
-<h2 align="center" style="color:#1e90ff; text-shadow: 0 0 8px #00bfff;">Meu GitHub em números</h2>
+### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" 
+    alt="Top Languages" 
+  />
 </p>
