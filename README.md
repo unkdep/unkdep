@@ -82,15 +82,15 @@ Olá! Eu sou o Rafael. Sou apaixonado por **tecnologia**, **inovação** e por r
 
 ### 🚀 Atualmente Explorando
 
-> 💻 Java e Spring Boot ☕  
-> 🚀 Desenvolvimento de APIs REST 🛰️  
-> 🗄️ SQL e Modelagem de Banco de Dados  
-> 🧠 Arquitetura de Software e Clean Code  
-> ⚛️ Sempre evoluindo no Frontend com React, JavaScript e TypeScript  
+>  Java e Spring Boot ☕  
+>  Desenvolvimento de APIs REST 🛰️  
+>  SQL e Modelagem de Banco de Dados  
+>  Arquitetura de Software e Clean Code  
+>  Sempre evoluindo no Frontend com React, JavaScript e TypeScript  
 
 ---
 
-### 🔥 Sobre mim
+### 💻 Sobre mim
 
 - Em transição de carreira para Backend  
 - Buscando aprimorar minhas habilidades técnicas e construir soluções escaláveis  
@@ -98,7 +98,7 @@ Olá! Eu sou o Rafael. Sou apaixonado por **tecnologia**, **inovação** e por r
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
 <p align="left">
   <img 
