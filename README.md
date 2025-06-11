@@ -4,6 +4,16 @@
 
 Olá! Eu sou o Rafael. Sou apaixonado por **tecnologia**, **inovação** e por resolver problemas através do código. Atualmente, estou em transição de carreira com foco em desenvolvimento backend e sempre buscando evoluir no frontend também.
 
+<p align="left">
+  <a href="https://github.com/unkdep">
+    <img 
+      alt="GitHub Profile Views" 
+      title="Visualizações no perfil" 
+      src="https://komarev.com/ghpvc/?username=unkdep&style=for-the-badge&color=blue" 
+    />
+  </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -90,9 +100,13 @@ Olá! Eu sou o Rafael. Sou apaixonado por **tecnologia**, **inovação** e por r
 
 ### 📊 Estatísticas GitHub
 
-<p align="center">
+<p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=dark_blue&bg_color=001f3f" 
-    alt="Top Languages" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=unkdep&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkdep&layout=compact&theme=tokyonight&custom_title=Linguagens+Mais+Usadas" 
   />
 </p>
